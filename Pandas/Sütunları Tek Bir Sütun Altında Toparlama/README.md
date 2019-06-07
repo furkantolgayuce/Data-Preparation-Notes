@@ -16,4 +16,4 @@ Biz verisetimizi bu formata getirmek istiyoruz.
 
 Görüldüğü gibi **Yıl ve Değer** Adında iki sütun oluşturuyoruz ve *sütunlardaki yılları ve onlara karşılık gelen değerleri* **satır** bazlı saklıyoruz.
 
-Bunu yaparken her yıl için şehir bilgisinide çoğaltıyoruz.
+Bunu yaparken her yıl için şehir bilgisini de çoğaltıyoruz.
